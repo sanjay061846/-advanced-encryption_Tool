@@ -28,3 +28,7 @@ In addition to file encryption, the tool can include features such as password-b
 Advanced Encryption Tools have real-world applications in secure file storage, data transmission, backup protection, and cybersecurity systems. Organizations use similar tools to safeguard confidential documents, personal information, and financial data.
 
 In conclusion, this project demonstrates the practical implementation of strong encryption techniques using Python and VS Code. It strengthens understanding of cryptography, secure file handling, and cybersecurity principles. The Advanced Encryption Tools project is ideal for students and beginners aiming to gain hands-on experience in data security and encryption technologies.
+
+<img width="1919" height="984" alt="Image" src="https://github.com/user-attachments/assets/beb083ba-46be-40f4-b1e5-eb0ddba0ad56" />
+<img width="1914" height="1018" alt="Image" src="https://github.com/user-attachments/assets/14573598-120b-4d88-929a-347e1d14c305" />
+<img width="1910" height="1026" alt="Image" src="https://github.com/user-attachments/assets/8888fb8e-43e2-4a33-bad6-0b14e051f3ef" />
